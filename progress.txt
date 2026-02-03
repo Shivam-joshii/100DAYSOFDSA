@@ -1,2 +1,3 @@
 Day 1 DSA code
 Day 2 DSA code
+Day 3 DSA code
