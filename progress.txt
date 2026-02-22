@@ -19,3 +19,4 @@ Day 18 DSA code
 Day 19 DSA code
 Day 20 DSA code
 Day 21 DSA code
+Day 22 DSA code
